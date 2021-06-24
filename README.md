@@ -5,3 +5,5 @@
 - 💬  Ask me about PHP | Laravel | NodeJs | Angular | Bootstrap | Docker
 - 📫  How to reach me **thifacco@gmail.com**
 - ⚡  Fun fact: I'm currently playing Zelda on Nintendo Switch
+
+### Languages and tools:
