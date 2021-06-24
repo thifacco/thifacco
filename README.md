@@ -1,8 +1,11 @@
-### Hi there, I'm Tiago 👋
+# Hi there, I'm Tiago 👋
 
 - 🔭  I’m currently working on [Pictan](https://pictan.com.br) | [@pictan.app](https://www.instagram.com/pictan.app)
 - 🌱  I’m currently learning about Cloud Computing on AWS
 - ⚡  Fun fact: I'm currently playing Zelda on Nintendo Switch
+
+### Follow me:
+<a href="https://www.linkedin.com/in/tiagofacco/" target="_blank"><img src="https://raw.githubusercontent.com/thifacco/thifacco/a8be08b1f89bdb66cc5c31262daa128c98c092f2/devicons/linkedin-original.svg" width="30" height="30"></a>&nbsp;&nbsp;<a href="https://codepen.io/thifacco" target="_blank"><img src="https://raw.githubusercontent.com/thifacco/thifacco/a8be08b1f89bdb66cc5c31262daa128c98c092f2/devicons/codepen-plain.svg" width="30" height="30"></a>
 
 ### Languages and tools:
 <img src="https://raw.githubusercontent.com/thifacco/thifacco/8234516b6d98350661b53b37660842c43997773b/devicons/angularjs-original.svg" width="30" height="30">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/thifacco/thifacco/868f0f31c5d493be8c3c0cfa59b8130b38b47f53/devicons/nodejs-original.svg" width="30" height="30">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/thifacco/thifacco/868f0f31c5d493be8c3c0cfa59b8130b38b47f53/devicons/nestjs-plain.svg" width="30" height="30">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/thifacco/thifacco/59b18692ba643310cc05dc122e10ec7e9858b10c/devicons/express-original.svg" width="30" height="30">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/thifacco/thifacco/868f0f31c5d493be8c3c0cfa59b8130b38b47f53/devicons/mongodb-original.svg" width="30" height="30">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/thifacco/thifacco/59b18692ba643310cc05dc122e10ec7e9858b10c/devicons/npm-original-wordmark.svg" width="30" height="30">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/thifacco/thifacco/59b18692ba643310cc05dc122e10ec7e9858b10c/devicons/typescript-original.svg" width="30" height="30">
