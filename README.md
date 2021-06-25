@@ -2,6 +2,7 @@
 
 - Sou Programador Full Stack na [Pictan](https://pictan.com.br) | [@pictan.app](https://www.instagram.com/pictan.app)
 - Cursando o programa de especialização Cloud AWS da [Comunidade Cloud](https://comunidadecloud.com/)
+- Compartilho meus aprendizados e experimentos no [Codpen](https://codepen.io/thifacco) <img src="https://raw.githubusercontent.com/thifacco/thifacco/a8be08b1f89bdb66cc5c31262daa128c98c092f2/devicons/codepen-plain.svg" width="16" height="16">
 
 ### Follow me:
 - <a href="https://www.linkedin.com/in/tiagofacco/" target="_blank"><img src="https://raw.githubusercontent.com/thifacco/thifacco/a8be08b1f89bdb66cc5c31262daa128c98c092f2/devicons/linkedin-original.svg" width="30" height="30">&nbsp; Veja meu perfil no LinkedIn</a>
