@@ -1,6 +1,7 @@
 # Hi there, I'm Tiago 👋
 
-- Programador Full Stack na [Pictan](https://pictan.com.br) | [@pictan.app](https://www.instagram.com/pictan.app)
+- Programador Full Stack | E-commerce
+- Business partner (PJ) na [Pictan](https://pictan.com.br) | [@pictan.app](https://www.instagram.com/pictan.app)
 - Cursando o programa de especialização Cloud AWS da [Comunidade Cloud](https://comunidadecloud.com/)
 - Compartilho meus experimentos no [Codpen](https://codepen.io/thifacco) <img src="https://raw.githubusercontent.com/thifacco/thifacco/a8be08b1f89bdb66cc5c31262daa128c98c092f2/devicons/codepen-plain.svg" width="14" height="14">
 - Veja meu perfil completo no [LinkedIn](https://www.linkedin.com/in/tiagofacco) <img src="https://raw.githubusercontent.com/thifacco/thifacco/a8be08b1f89bdb66cc5c31262daa128c98c092f2/devicons/linkedin-original.svg" width="14" height="14">
