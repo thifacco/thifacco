@@ -3,7 +3,7 @@
 - Programador Full Stack | E-commerce
 - Business partner (PJ) na [Pictan](https://pictan.com.br) | [@pictan.app](https://www.instagram.com/pictan.app)
 - Cursando o programa de especialização Cloud AWS da [Comunidade Cloud](https://comunidadecloud.com/)
-- Compartilho meus experimentos no [Codpen](https://codepen.io/thifacco)
+- Compartilho meus experimentos no [Codpen](https://codepen.io/thifacco) e [StackBlitz](https://stackblitz.com/@thifacco)
 - Veja meu perfil completo no [LinkedIn](https://www.linkedin.com/in/tiagofacco)
 - Siga-me no [Instagram](https://www.instagram.com/facco.dev/?hl=pt-br) 
 
