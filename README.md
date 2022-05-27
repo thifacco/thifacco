@@ -1,7 +1,7 @@
 # Hi there, I'm Tiago 👋
 
 - Especialista em aplicações web e mobile
-- Business partner (PJ) na [Pictan](https://pictan.com.br) | [@pictan.app](https://www.instagram.com/pictan.app)
+- Software Developer Full Stack na [Pictan](https://pictan.com.br) | [@pictan.app](https://www.instagram.com/pictan.app)
 
 Como Tecnólogo e Desenvolvedor Web profissional desde 2006, possuo vasta experiência em desenvolvimento e sustentação de aplicações digitais. Atuei como desenvolvedor em diversos ramos de negócio mas meu foco principal é desenvolver plataformas para comércio eletrônico. Possuo sólida experiência em linguagem de programação PHP e JavaScript (especialmente Angular e NodeJs), excelentes técnicas de front-end e design responsivo. Atualmente estou cursando especialização em Cloud Computing.
 
