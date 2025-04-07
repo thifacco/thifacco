@@ -6,7 +6,7 @@
 
 - 📚 Estou estudando Python e Machine Learning
 
-- ⚡ Curto motocicletas, tecnologia e rock'n'roll
+- ⚡ Curto motocicletas, tecnologia e finanças/investimentos
 
 - 💡 Idealizo unir minhas paixões no futuro com novas ideias
 
