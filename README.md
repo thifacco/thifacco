@@ -1,4 +1,4 @@
-# Olá, eu sou o Tiago Facco
+# Olá, eu sou Tiago Facco
 
 ## Desenvolvedor Front-end Especialista
 
