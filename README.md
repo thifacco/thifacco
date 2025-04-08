@@ -2,13 +2,13 @@
 
 ## Desenvolvedor Front-end Especialista
 
-- 👨🏻‍💻 Atualmente desenvolvo aplicações web com as tecnologias Angular e NodeJS no banco BV como consultor ACT
+- 👨🏻‍💻 Atualmente trabalho como Desenvolvedor Front-end aplicando minhas habilidades com as tecnologias Angular e NodeJS no banco BV como consultor ACT
 
 - 📚 Estou estudando Python e Machine Learning
 
 - ⚡ Curto motocicletas, tecnologia e finanças/investimentos
 
-- 💡 Idealizo unir minhas paixões no futuro com novas ideias
+- 📌 Confira meus repositórios fixados aqui embaixo!
 
 ---
 
