@@ -8,7 +8,7 @@
 
 - ⚡ Curto motocicletas, tecnologia e finanças/investimentos
 
-- 📌 Confira meus repositórios fixados aqui embaixo!
+- 📌 Confira meus repositórios fixados👇
 
 ---
 
