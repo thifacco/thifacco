@@ -12,7 +12,7 @@
 
 ---
 
-### Tecnologias que domino:
+### Tecnologias e ferramentas:
 
 ![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
