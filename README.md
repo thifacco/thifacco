@@ -2,7 +2,7 @@
 
 ## Engenheiro de Software especialista em Front-end
 
-- 👨🏻‍💻 Atualmente desenvolvendo aplicações corporativas front-end Angular no banco BV como consultor ACT Digital
+- 👨🏻‍💻 Desenvolvo aplicações front-end com Angular no Banco BV como consultor ACT Digital
 
 - 📚 Estou estudando Python e Engenharia de Prompt IA
 
