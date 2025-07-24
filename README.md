@@ -1,8 +1,8 @@
 # Olá, eu sou Tiago Facco
 
-## Engenheiro de Software especialista em Front-end
+## Engenheiro de Software Sr especialista em Front-end
 
-- 👨🏻‍💻 Desenvolvo aplicações front-end com Angular no Banco BV como consultor ACT Digital
+- 👨🏻‍💻 Desenvolvo aplicações front-end com Angular no Banco Itaú
 
 - 📚 Estou estudando Python e Engenharia de Prompt IA
 
