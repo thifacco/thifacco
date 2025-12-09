@@ -10,8 +10,6 @@
 
 - 📌 Confira meus repositórios fixados👇
 
----
-
 #### Tecnologias e ferramentas:
 
 ![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular)
@@ -31,9 +29,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-yellow?style=for-the-badge&logo=amazon-web-services&logoColor=ffffff)
 
----
-
-### Entre em contato:
+#### Entre em contato:
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagofacco/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thifacco/)
