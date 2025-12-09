@@ -2,9 +2,9 @@
 
 ## Engenheiro de Software Sr | Especialista em Front-end
 
-- 👨🏻‍💻 Desenvolvo aplicações front-end com Angular no Banco Itaú
+- 👨🏻‍💻 Desenvolvo aplicações front-end e webview com Angular no Itaú
 
-- 📚 Estou estudando Python e Engenharia de Prompt IA
+- 📚 Estou estudando React e Next.js com SSG
 
 - ⚡ Curto motocicletas, tecnologia e finanças/investimentos
 
