@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻 Desenvolvo aplicações front-end e webview com Angular no Itaú
 
-- 📚 Estou estudando React e Next.js com SSG
+- 📚 Estou estudando React e Next.js
 
 - ⚡ Curto motocicletas, tecnologia e finanças/investimentos
 
