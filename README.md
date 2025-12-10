@@ -6,9 +6,9 @@
 
 - 📚 Estou estudando React e Next.js
 
-- ⚡ Curto motocicletas, tecnologia e finanças/investimentos
+- ⚡ Curto conversar sobre tecnologia, dinheiro e motocicletas
 
-- 📌 Confira meus repositórios fixados👇
+- 📌 Confira meus repos
 
 #### Tecnologias e ferramentas:
 
